@@ -1,0 +1,14 @@
+{
+    "textures": {
+        "top": "charsetgates:blocks/gate_bottom"
+    },
+    "layers": [],
+    "torches": [
+        {
+            "pos": [8, 4]
+        },
+        {
+            "pos": [8, 12]
+        }
+    ]
+}

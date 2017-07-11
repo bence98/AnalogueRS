@@ -1,0 +1,25 @@
+{
+    "textures": {
+        "top": "analoguers:blocks/adder/top"
+    },
+    "layers": [
+        {
+            "type": "color",
+            "texture": "analoguers:blocks/adder/layer"
+        }
+    ],
+    "torches": [
+        {
+            "pos": [4, 10]
+        },
+        {
+            "pos": [8, 12]
+        },
+        {
+            "pos": [12, 10]
+        },
+        {
+            "pos": [8, 4]
+        }
+    ]
+}

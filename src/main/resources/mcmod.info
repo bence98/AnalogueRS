@@ -1,0 +1,16 @@
+[
+{
+  "modid": "analoguers",
+  "name": "AnalogueRS",
+  "description": "Expands vanilla analogue redstone.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CsokiCraft"],
+  "credits": "Vazkii and asiekierka for the CharSet API",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

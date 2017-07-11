@@ -1,0 +1,7 @@
+part.analoguers.gate.inverter=[AnalogueRS] Analogue Inverter
+part.analoguers.gate.adder=[AnalogueRS] Analogue Adder
+part.analoguers.gate.equality=[AnalogueRS] Analogue Equality Checker
+part.analoguers.gate.synth=[AnalogueRS] Analogue Signal Synthetiser
+
+itemGroup.AnalogueRS=AnalogueRS
+item.synthTuner.name=Synthetiser Tuning Tool
